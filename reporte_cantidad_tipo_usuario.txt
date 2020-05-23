@@ -1,0 +1,6 @@
+Reporte con la cantidad de vehículos estacionados según el tipo de usuario
+Numero vehiculos de:
+    ESTUDIANTES: 0
+    PROFESORES: 0
+    ADMINISTRATIVOS: 0
+    VISITANTES: 0

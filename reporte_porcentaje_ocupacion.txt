@@ -1,0 +1,9 @@
+REPORTE DE OCUPACION DEL EDIFICIO
+    TOTAL: de 550 parqueaderos 0 estan ocupados. El 0.0 porciento
+    OCUPACION POR PISO:
+        ocupado de piso 1 = 0%
+        ocupado de piso 2 = 0%
+        ocupado de piso 3 = 0%
+        ocupado de piso 4 = 0%
+        ocupado de piso 5 = 0%
+        ocupado de piso 6 = 0%

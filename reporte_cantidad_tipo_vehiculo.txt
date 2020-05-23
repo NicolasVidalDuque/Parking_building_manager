@@ -1,0 +1,6 @@
+Reporte con la cantidad de vehículos estacionados según el tipo de usuario
+Numero vehiculos de:
+    AUTOMOVIL: 0
+    AUTOMOVIL ELECTRICO: 0
+    MOTOCICLETA: 0
+    DISCAPACITADO: 0
